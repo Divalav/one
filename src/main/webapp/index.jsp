@@ -470,7 +470,10 @@
             background: var(--accent);
             color: #fff;
         }
-        
+        .cat-card h4 {
+            font-size: 15px;
+            font-weight: 600;
+        }
         .cat-card .count {
             font-size: 13px;
             color: var(--muted);
